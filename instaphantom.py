@@ -11,7 +11,7 @@ def help():
 	print("bio:   Print the bio of the target")
 	print("followers:   Get all followers of the target")
 	print("following:   Get all followees of the target")
-	print("exit:   Exit script")
+	print("exit:   Exit script\n\n\n")
 
 def login(loader):
 	userdata = open("account", "r")
