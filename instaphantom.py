@@ -34,7 +34,9 @@ def setTarget():
 
 def profile(loader, target):
 	loader.download_profile(target, profile_pic_only=True)
+	print("\n")
 	system("mv " + target + " ./output/" + target)
+	print("\n")
 
 def showBio(loader, target):
 	profile = instaloader.Profile.from_username(loader.context, target)
