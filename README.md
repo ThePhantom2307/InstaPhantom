@@ -21,3 +21,4 @@ InstaPhantom is a script program created for linux that is used to get some usef
 5) followers: get (and display) the followers of the target
 6) followees: get (and display) the followees of the target
 7) exit: exit from the script
+8) options: display options menu
