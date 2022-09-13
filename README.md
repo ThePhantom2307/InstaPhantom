@@ -17,7 +17,7 @@ InstaPhantom is a script program created for linux that is used to get some usef
 1) login: login to your account
 2) target: set a target
 3) profile: download profile picture of the target and some other usefull things
-4) bio: discplay the biography of the target
+4) bio: display the biography of the target
 5) followers: get (and display) the followers of the target
 6) followees: get (and display) the followees of the target
 7) exit: exit from the script
