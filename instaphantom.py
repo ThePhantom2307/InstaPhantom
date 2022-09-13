@@ -10,7 +10,7 @@ def options():
 	print("profile:   Download the target profile picture and some usefull things")
 	print("bio:   Print the bio of the target")
 	print("followers:   Get all followers of the target")
-	print("following:   Get all followees of the target")
+	print("followees:   Get all followees of the target")
 	print("exit:   Exit script\n\n\n")
 
 def login(loader):
