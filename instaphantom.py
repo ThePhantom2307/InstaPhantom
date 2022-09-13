@@ -2,9 +2,9 @@ import instaloader
 from os import system
 from pyfiglet import Figlet
 
-def help():
+def options():
 	print("\n\n\n____________ Options Menu ____________\n")
-	print("help:   Print this menu")
+	print("options:   Print this menu")
 	print("login:   Logging into your account")
 	print("target:   Setting the target user")
 	print("profile:   Download the target profile picture and some usefull things")
@@ -98,9 +98,9 @@ print(logo.renderText("   InstaPhantom"))
 print("//////////////////////////////////////////////////////////////////////////\n\n\n")
 
 
-print("Enter \"help\" to show the options.\nAll files that will be downloaded, will be stored to the \"output\" directory\n\n")
+print("Enter \"options\" to show the options.\nAll files that will be downloaded, will be stored to the \"output\" directory\n\n")
 #Run the program
-commands = ["help", "login", "target", "profile", "bio", "followers", "followees"]
+commands = ["options", "login", "target", "profile", "bio", "followers", "followees"]
 running = True
 user = ""
 target = ""
@@ -109,7 +109,7 @@ while running:
 	command = input("Enter command: ")
 	
 	if command == commands[0]:
-		help()
+		options()
 	elif command == commands[1]:
 		user = login(loader)
 	elif command == commands[2]:
