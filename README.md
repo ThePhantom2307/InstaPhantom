@@ -9,7 +9,7 @@ InstaPhantom is a script program created for linux that is used to get some usef
 
 # How to use it
 1) Open the terminal and enter the command "python3 instaphantom.py"
-2) Enter "help" to see the commands and their descriptions
+2) Enter "options" to see the commands and their descriptions
 3) You must login and set a target before you enter any other command
 4) You can find all the files that will be downloaded at the output directory 
 
