@@ -10,4 +10,4 @@ print("\n" + install_pyfiglet)
 os.system(install_pyfiglet)
 os.system("mkdir output")
 
-print("\nInstaPhantom is ready for use!")
+input("\nInstaPhantom is ready for use! Press \"Enter\" to continue...")
