@@ -22,4 +22,4 @@ InstaPhantom is a program created for linux that is used to get some usefull inf
 7) exit: exit from the script
 8) options: display options menu
 
-*NOTE* The 2FA does not always work, it's problem of instaloader library
+*NOTE*: The 2FA does not always work, it's problem of instaloader library
