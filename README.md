@@ -3,7 +3,6 @@ InstaPhantom is a program created for linux that is used to get some usefull inf
 
 # How to setup
 1) Open the terminal and enter the command "python3 setup.py"
-2) Enter your username and the password of your instagram account (You can change the username and password by editing the "account" file)
 3) let it to download some packages
 4) If there is any error use "sudo python3 setup.py"
 
@@ -15,7 +14,6 @@ InstaPhantom is a program created for linux that is used to get some usefull inf
 
 # Commands
 1) login: login to your account
-2) account: Change account username and password
 3) target: set a target
 4) profile: download profile picture of the target and some other usefull things
 5) bio: display the biography of the target
